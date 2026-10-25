@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ `c# c++`
+
+`mail:12046178@qq.com` 📫
 <!--
 **uxctx/uxctx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
